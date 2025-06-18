@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/webhook/form-submission",
-      "dest": "/api//webflow-cms-form.js"
+      "dest": "/api/webflow-cms-form.js"
     }
   ]
 }
